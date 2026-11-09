@@ -16,7 +16,7 @@ I have no conflicts of interest to disclose, and the study was approved by the r
 
 **Slide 3. Why I Measure Language**
 
-Let me start with a simple question: why does a psychiatrist measure language? In daily practice, on the ward, in the outpatient clinic, and in my work in epilepsy, the words of our patients are our richest source of information. Yet for more than a century we could only describe them: tangential, impoverished, loosened. Natural language processing now allows us to measure them. Since 2020 I have worked on this question within the UNDERPIN project led by Professor Kishimoto. Today's talk has five parts: a brief history, the basic methods, our study, a map of the field, and finally the promise and the risks of bringing these tools into the clinic.
+Let me start with a simple question: why does a psychiatrist measure language? In daily practice, on the ward, in the outpatient clinic, and in my work in epilepsy, the words of our patients are our richest source of information. Yet for more than a century we could only describe them: tangential, impoverished, loosened. Natural language processing now allows us to measure them. For several years I have worked on this question within the UNDERPIN project led by Professor Kishimoto. Today's talk has five parts: a brief history, the basic methods, our study, a map of the field, and finally the promise and the risks of bringing these tools into the clinic.
 
 **Slide 4. Two Histories Converge**
 
